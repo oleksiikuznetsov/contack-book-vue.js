@@ -3,49 +3,49 @@ export default [
     name: 'Oleksii Kuznetsov',
     country: 'Ukraine',
     city: 'lviv',
-    phone: '+380506111024',
+    phone: '+380505411024',
     info: '-'
   },
   {
     name: 'Daryna Boiko',
     country: 'Ukraine',
     city: 'Lviv',
-    phone: '+380938661346',
+    phone: '+380954661346',
     info: '-'
   },
   {
     name: 'Nadiya Kuznetsova',
     country: 'Ukraine',
     city: 'Zhytomir',
-    phone: '+380680526015',
+    phone: '+380644526015',
     info: '-'
   },
   {
     name: 'Leninskii Andrii',
     country: 'Ukraine',
     city: 'Sambir',
-    phone: '+380676897693',
+    phone: '+380674497693',
     info: '-'
   },
   {
     name: 'Olha Drabyk',
     country: 'Ukraine',
     city: 'Terlo',
-    phone: '+380967930786',
+    phone: '+380967944786',
     info: '-'
   },
   {
     name: 'Bohdan Kulynka',
     country: 'Ukraine',
     city: 'lviv',
-    phone: '+38093',
+    phone: '+380935543333',
     info: '-'
   },
   {
     name: 'Maryan Fediv',
     country: 'Ukraine',
     city: 'lviv',
-    phone: '+380686908447',
+    phone: '+380686954447',
     disc: '-'
   }
 ]
