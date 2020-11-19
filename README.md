@@ -1,6 +1,6 @@
-# Contact book vue.js
-# Reactively displays contact lists. 
-# It is possible to add a new contact as well as delete
+Contact book vue.js
+Reactively displays contact lists. 
+It is possible to add a new contact as well as delete
 
 ## Project setup
 ```
