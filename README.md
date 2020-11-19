@@ -1,5 +1,8 @@
 # contact-book
+# Reactively displays contact lists. It's possible to add a new contact as well as delete
+# site url for test 
 
+# http://w68690e8.beget.tech/
 ## Project setup
 ```
 npm install
